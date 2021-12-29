@@ -24,4 +24,6 @@ The theme will now be used for all Keycloak log in screens on your realm - inclu
 <img alt="" src="docs/images/use-4.png" width="512" height="421">
 
 ### Local Keycloak server
+$ git clone https://github.com/fjimenezg/theme-1qos.git
+$ cd theme-1qos
 $ docker-compose up
